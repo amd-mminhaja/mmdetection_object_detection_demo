@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>etsy_invoice020.png</filename>
+	<path>/my-project-name/etsy_invoice020.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>568</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>205</ymin>
+			<xmax>390</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>
